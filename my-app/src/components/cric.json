@@ -1,0 +1,164 @@
+{
+    "questions": [
+      {
+        "question": "What is the basic objective of a cricket game?",
+        "answer": "The objective is to score more runs than the opposing team. Teams take turns batting and fielding."
+      },
+      {
+        "question": "How many players are on each team in a standard cricket match?",
+        "answer": "Each team has 11 players."
+      },
+      {
+        "question": "What is the length of a standard cricket pitch?",
+        "answer": "The pitch is 22 yards (20.12 meters) long."
+      },
+      {
+        "question": "What are the three main formats of international cricket?",
+        "answer": "Test matches, One Day Internationals (ODIs), and Twenty20 (T20) Internationals."
+      },
+      {
+        "question": "How many overs are there in a standard One Day International (ODI) match?",
+        "answer": "Each team bowls 50 overs in an ODI match."
+      },
+      {
+        "question": "What is a hat-trick in cricket?",
+        "answer": "A hat-trick occurs when a bowler takes three wickets with three consecutive deliveries."
+      },
+      {
+        "question": "What are the two main types of bowlers in cricket?",
+        "answer": "Fast bowlers and spin bowlers."
+      },
+      {
+        "question": "What does the term 'duck' mean in cricket?",
+        "answer": "A 'duck' refers to a batsman getting out without scoring any runs."
+      },
+      {
+        "question": "What is the role of a 'wicketkeeper'?",
+        "answer": "The wicketkeeper stands behind the stumps and is responsible for catching balls that pass the batsman and for stumping out batsmen."
+      },
+      {
+        "question": "What is the difference between a 'wide' and a 'no-ball'?",
+        "answer": "A 'wide' is a delivery that is too far off for the batsman to reach, while a 'no-ball' is an illegal delivery due to various reasons such as overstepping the crease or high bouncing."
+      },
+      {
+        "question": "How many runs are awarded for hitting the ball over the boundary without it touching the ground?",
+        "answer": "Four runs."
+      },
+      {
+        "question": "What does 'LBW' stand for, and what does it mean?",
+        "answer": "'LBW' stands for 'Leg Before Wicket.' It means the batsman is out because the ball hit their leg and would have gone on to hit the stumps."
+      },
+      {
+        "question": "Which country won the first Cricket World Cup?",
+        "answer": "England won the first Cricket World Cup in 1975."
+      },
+      {
+        "question": "What is the name of the area where the bowler delivers the ball to the batsman?",
+        "answer": "The 'delivery' or 'bowling crease' area."
+      },
+      {
+        "question": "Who is considered one of the greatest Test batsmen of all time, known for his record of 100 international centuries?",
+        "answer": "Sachin Tendulkar."
+      },
+      {
+        "question": "What is a 'boundary' in cricket?",
+        "answer": "A boundary is when the ball is hit to the edge of the field, either along the ground for four runs or in the air for six runs."
+      },
+      {
+        "question": "What is the purpose of the 'third umpire'?",
+        "answer": "The third umpire assists the on-field umpires by reviewing decisions using video technology."
+      },
+      {
+        "question": "What is the term for a match that ends without a result?",
+        "answer": "A 'draw' or 'no result' (in limited-overs cricket)."
+      },
+      {
+        "question": "Who is known for the famous 'underarm bowling' incident in cricket history?",
+        "answer": "Australia’s Dennis Lillee during a match against New Zealand in 1981."
+      },
+      {
+        "question": "What is the name of the tournament contested by the top international teams every two years?",
+        "answer": "The ICC World Test Championship (for Test cricket) or the ICC Cricket World Cup (for ODIs)."
+      },
+      {
+        "question": "What is the term for a cricket match where both innings are not completed due to time constraints?",
+        "answer": "A 'draw'."
+      },
+      {
+        "question": "Which country is known for having won the most ICC T20 World Cup titles?",
+        "answer": "West Indies, with two titles (2012 and 2016)."
+      },
+      {
+        "question": "What is a 'no-ball' in cricket?",
+        "answer": "A 'no-ball' is an illegal delivery due to the bowler's foot being over the crease, among other reasons."
+      },
+      {
+        "question": "Who holds the record for the most runs in a single ODI match?",
+        "answer": "Rohit Sharma, with 264 runs."
+      },
+      {
+        "question": "What is the name of the fielding position located directly behind the batsman, on the off-side?",
+        "answer": "Slip."
+      },
+      {
+        "question": "In cricket, what does the term 'economy rate' refer to?",
+        "answer": "The average number of runs conceded per over bowled."
+      },
+      {
+        "question": "What is the term for a bowler who is used specifically to bowl in the final overs of a limited-overs match?",
+        "answer": "Death bowler."
+      },
+      {
+        "question": "Who was the captain of the Indian cricket team that won the 1983 World Cup?",
+        "answer": "Kapil Dev."
+      },
+      {
+        "question": "What is the name of the award given to the player of the match in international cricket?",
+        "answer": "The 'Player of the Match' award."
+      },
+      {
+        "question": "Which cricket ground is known as 'The Home of Cricket'?",
+        "answer": "Lord's Cricket Ground in London."
+      },
+      {
+        "question": "What does 'follow-on' mean in Test cricket?",
+        "answer": "When the team batting first leads by a certain number of runs, the opposing team is asked to bat again immediately after their first innings."
+      },
+      {
+        "question": "What is the name of the cricketing term used for a score of 50 runs?",
+        "answer": "A 'half-century'."
+      },
+      {
+        "question": "Who is known as 'The Little Master' in cricket?",
+        "answer": "Sunil Gavaskar."
+      },
+      {
+        "question": "What is a 'sixer' in cricket?",
+        "answer": "Hitting the ball out of the boundary on the full, which scores six runs."
+      },
+      {
+        "question": "Which cricketer is famous for the 'Ball of the Century' delivered to Mike Gatting?",
+        "answer": "Shane Warne."
+      },
+      {
+        "question": "What is the maximum number of overs a bowler can bowl in a T20 match?",
+        "answer": "Four overs."
+      },
+      {
+        "question": "What term is used for a delivery that spins away from the batsman?",
+        "answer": "Off-spin."
+      },
+      {
+        "question": "Who is the only cricketer to have scored 200 runs in a single ODI match and also take 5 wickets in an ODI match?",
+        "answer": "Chris Gayle."
+      },
+      {
+        "question": "What does 'Duckworth-Lewis' refer to in cricket?",
+        "answer": "A method used to calculate target scores in rain-affected limited-overs matches."
+      },
+      {
+        "question": "Who was the first player to reach 10,000 runs in ODIs?",
+        "answer": "Sourav Ganguly."
+      }
+    ]
+  }

@@ -1,0 +1,51 @@
+/* Register.css */
+
+.login {
+    width: 400px;
+    margin: 100px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #93deff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .login h1 {
+    text-align: center;
+    color:#070f4e;
+  }
+  
+  .login form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .login input[type="email"],
+  .login input[type="password"],
+  .login input[type="submit"] {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .login input[type="submit"] {
+    background-color: #00bbf0;
+    color: #070f4e;
+    cursor: pointer;
+  }
+  
+  .login input[type="submit"]:hover {
+    background-color: #0056b3;
+  }
+  
+  .login p {
+    text-align: center;
+  }
+  
+  .login a {
+    display: block;
+    text-align: center;
+    color: #0080ff;
+  }
+  

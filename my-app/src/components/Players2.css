@@ -1,0 +1,63 @@
+/* Players.css */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .heading {
+    text-align: center;
+    color: #343a40;
+    margin-top: 20px;
+  }
+  
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .th {
+    padding: 12px 15px;
+    text-align: left;
+    border-bottom: 1px solid #dee2e6;
+    background-color: #007bff;
+    color: #ffffff;
+  }
+  
+  .td {
+    padding: 12px 15px;
+    text-align: left;
+    border-bottom: 1px solid #dee2e6;
+    color: #495057;
+  }
+  
+  .td:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .tr:hover {
+    background-color: #e9ecef;
+  }
+  
+  /* Advanced CSS features */
+  .td {
+    position: relative;
+    transition: all 0.3s ease;
+  }
+  
+  .tr:hover .td {
+    transform: scale(1.02);
+    background-color: #d1ecf1;
+  }
+  
+  .th {
+    position: sticky;
+    top: 0;
+    background-color: #007bff;
+    box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.4);
+  }
+  

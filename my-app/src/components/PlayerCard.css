@@ -1,0 +1,52 @@
+.player-card {
+    display: flex;
+    flex-direction: column;
+    height: 350px;
+    width: 250px;
+    margin: 10px;
+    padding: 20px;
+    border: 2px solid #e6e4e4;
+    text-decoration:none;
+    color: #333;
+    border-radius: 20px;
+  }
+  
+  .player-photo {
+    text-align: center;
+  }
+  
+  .player-photo img {
+    border-radius: 50%;
+    width: 150px;
+    height: 170px;
+    object-fit: cover;
+    background-color:rgb(195, 229, 243);
+  }
+  
+  .player-details {
+    margin-top: 20px;
+    text-align: center;
+    
+  }
+  
+  .player-info h2 {
+    margin-bottom: 5px;
+  }
+  
+  .player-contribution {
+    margin-top: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-display:inherit;
+    font-size: large;
+  }
+
+  .player-cards{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+  }
+  h1{
+    text-align: center;
+  }
